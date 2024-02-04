@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Arial, Verdana;
     background-color: #000000;
     color: #ffffff;
     margin-top: 20px;
@@ -85,10 +85,10 @@ footer {
     border: solid 5px #ffffff;
 }
 footer p {
-    font-size: 20 px;
+    font-size: 20px;
     text-align: right;
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
-    padding-left: none;
+    padding-left: 0px;
 }
